@@ -97,7 +97,7 @@ class MapSampleState extends State<MapSample> {
                           ),
                         ),
                         TextFormField(
-                          controller: placeOneController,
+                          controller: placeTwoController,
                           decoration: InputDecoration(
                             hintText: "Destination.",
                           ),
